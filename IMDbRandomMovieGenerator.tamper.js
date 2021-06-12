@@ -5,8 +5,8 @@
 // @author       Alastor
 // @match        https://*.imdb.com/user/ur*/watchlist*
 // @grant        none
-// @downloadURL  http://localhost:80/imdb-random-movie-generator/IMDbRandomMovieGenerator.tamper.js
-// @updateURL    http://localhost:80/imdb-random-movie-generator/IMDbRandomMovieGenerator.tamper.js
+// @downloadURL  https://github.com/Alastor27/IMDb-Random-Movie-Generator/raw/main/IMDbRandomMovieGenerator.tamper.js
+// @updateURL    https://github.com/Alastor27/IMDb-Random-Movie-Generator/raw/main/IMDbRandomMovieGenerator.tamper.js
 // ==/UserScript==
 
 (function() {
