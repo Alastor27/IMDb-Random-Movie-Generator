@@ -223,7 +223,7 @@
           //movie_poster_url = movie_page_html.getElementsByClassName("poster")[0].getElementsByTagName("a")[0].getElementsByTagName("img")[0].getAttribute("src");
           movie_poster_url = movie_page_html.getElementsByTagName("img")[0].getAttribute("src");
           //movie_summary = movie_page_html.getElementsByClassName("summary_text")[0].innerHTML.trim();
-          movie_summary = movie_page_html.querySelectorAll('[class^=GenresAndPlot__TextContainer]')[4].textContent.trim()
+          movie_summary = movie_page_html.querySelectorAll('[class^=GenresAndPlot__TextContainer]')[2].textContent.trim()
         }
       };
       movie_xmlhttp.open("POST", movie_page_url, false);
