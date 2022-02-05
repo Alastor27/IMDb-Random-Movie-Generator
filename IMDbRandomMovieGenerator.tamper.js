@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         IMDb Random Movie Generator
-// @version      0.3.1
+// @version      0.3.2
 // @description  Generate a random movie from IMDb watchlists.
 // @author       Alastor
 // @match        https://*.imdb.com/user/ur*/watchlist*
